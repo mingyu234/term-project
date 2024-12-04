@@ -30,6 +30,15 @@ Climate change is causing rising sea levels, extreme weather, and ecosystem chan
 
 ---
 
+### 참고자료
+Huggingface Documentation
+
+PyTorch Documentation
+
+GitHub Guides for Collaboration
+
+---
+
 ## 요구사항:
 **다음 버전에서 테스트되었습니다**:
 - **Python**: 3.8+
