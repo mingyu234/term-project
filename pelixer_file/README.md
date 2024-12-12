@@ -60,10 +60,6 @@ pipeline("summarization", model="facebook/bart-large-cnn")
     
     - 프로그램 실행을 위해 아래 명령어를 입력합니다:
         
-        bash
-        
-        코드 복사
-        
         `python keyword_extractor.py`
         
 3. **텍스트 파일 입력**
