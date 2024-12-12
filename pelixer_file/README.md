@@ -25,11 +25,6 @@
 
 ### **2. Python 패키지**
 다음 명령어로 필요한 라이브러리를 설치합니다:
-```bash
-pip install -r requirements.txt
-```
-
-`requirements.txt` 파일에는 다음 패키지가 포함됩니다:
 
 - **transformers\==4.33.2**:
     - Huggingface Transformers 라이브러리로, 텍스트 요약에 사용됩니다.
