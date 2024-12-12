@@ -9,4 +9,13 @@
  Hugging Face의 transformers 라이브러리를 활용하여 텍스트 감정 분석 프로그램입니다.
  부정적인 감정과 긍정적인 감정을 분석 가능합니다.
 
-# 
+# 202434855 최지안 - chlwldks9926
+Huggingface Transformers를 사용하여 긴 글 요약
+
+주어진 텍스트 파일의 내용을 Huggingface Transformers를 활용해 요약합니다.  
+Python으로 구현된 간단하고 강력한 텍스트 요약 도구입니다.
+수행 단계:
+1. 입력 텍스트 파일을 불러옵니다.
+2. Huggingface의 `pipeline`과 `facebook/bart-large-cnn` 모델을 사용합니다.
+3. 지정된 길이 조건에 따라 간결한 요약문을 생성합니다.
+4. 생성된 요약 결과를 터미널에 출력합니다.
