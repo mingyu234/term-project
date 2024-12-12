@@ -6,6 +6,7 @@
 - Huggingface Transformers와 TF-IDF를 활용해 입력된 텍스트를 요약하고, 해당 요약에서 키워드를 효과적으로 추출하는 Python 기반 도구를 개발했습니다. 
 
 # 202434718 권도현 - Kwonod
-
+ Hugging Face의 transformers 라이브러리를 활용하여 텍스트 감정 분석 프로그램입니다.
+ 부정적인 감정과 긍정적인 감정을 분석 가능합니다.
 
 # 
